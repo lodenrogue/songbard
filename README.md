@@ -1,4 +1,4 @@
-# Songbard
+# Songbard - Songwriting tools
 
 ### Usage
 
